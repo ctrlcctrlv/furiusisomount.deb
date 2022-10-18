@@ -1,0 +1,6 @@
+File lists identical (after any substitutions)
+
+Control files: lines which differ (wdiff format)
+------------------------------------------------
+Depends: [-python-] {+python2+} (<< 2.8), [-python-] {+python2+} (>= 2.7), [-python:any-] {+python2:any+} (>= 2.6.6-7~), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.14), libcairo2 (>= 1.2.4), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.24.0), libgtk2.0-0 (>= 2.24.0), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.21.4), python-cairo (>= 1.0.2-1.1), python-gobject-2 (>= 2.21.3)
+[-Suggests: python-gtk2-doc-]

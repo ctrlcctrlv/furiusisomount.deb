@@ -1,0 +1,7 @@
+File lists identical (after any substitutions)
+
+Control files: lines which differ (wdiff format)
+------------------------------------------------
+Depends: [-python-] {+python2+} (>= [-2.6.6-7~),-] {+2.7.1-0ubuntu2),+} fuseiso, fuseiso9660, python-gtk2, python-glade2, nautilus
+Maintainer: {+Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>+}
+{+Original-Maintainer:+} Prach Pongpanich <prachpub@gmail.com>
